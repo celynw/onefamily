@@ -15,7 +15,7 @@ The bottom plot represents the value you hold.
 ## 1. Get CSV file
 
 First go to https://secure.onefamily.com/fundprices/index.asp and search for your product.
-Once you find it, go to that page and go to the price history by clicking on `Download Historic Price DataDownload historic price data in HTML`.
+Once you find it, go to that page and go to the price history by clicking on `Download historic price data in HTML`.
 
 You need to turn this data into a CSV file with the headings, `Bid Price`, `Offer Price`, `Date`.
 Date is of the format `DD/MM/YYYY`.
